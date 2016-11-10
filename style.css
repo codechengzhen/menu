@@ -1,0 +1,37 @@
+*{margin:0;padding:0;}
+html{background: #e1ddd9;}
+li{list-style-type:none;}
+a{text-decoration:none;}
+img{border: 0;}
+input[type="button"], input[type="submit"], input[type="reset"] {
+    -webkit-appearance: none;
+}
+textarea { -webkit-appearance: none;}
+.allbox{
+    max-width:750px;
+    margin:0 auto;
+
+}
+.menubox{
+    font-family: "Microsoft Yahei";
+    border-radius: 10px;
+    margin:10px;
+    background: #fff;
+}
+.menubox li{
+    padding:10px;
+    border-top: solid 1px #e1ddd9;
+}
+.menubox .submenu li{
+   padding-left:20px;
+}
+.menubox .submenu .submenucol li{
+    padding-left: 40px;
+}
+.menubox input{
+    margin:0 6px;
+}
+.all{
+    float: right;
+    color:#0ecea5;
+}

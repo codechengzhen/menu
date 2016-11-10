@@ -1,0 +1,41 @@
+[
+  {
+    "orgId": "4",
+    "name": "仙界1",
+    "shortName": "仙界",
+    "sub": [
+      {
+        "orgId": "41",
+        "name": "测试组织",
+        "shortName": "我们"
+      },
+      {
+        "orgId": "42",
+        "name": "北京专业产品委员会",
+        "shortName": "专品会"
+      },
+      {
+        "orgId": "43",
+        "name": "北京专业产品委员会43",
+        "shortName": "专品会"
+      }
+    ]
+  },
+  {
+    "orgId": "5",
+    "name": "仙界。",
+    "shortName": "仙界",
+    "sub": [
+      {
+        "orgId": "51",
+        "name": "测试组织",
+        "shortName": "我们"
+      },
+      {
+        "orgId": "52",
+        "name": "北京专业产品委员会",
+        "shortName": "专品会"
+      }
+    ]
+  }
+]
